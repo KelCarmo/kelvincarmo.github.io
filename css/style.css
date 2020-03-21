@@ -2322,6 +2322,10 @@ h6 {
   .welcome_inner .welcome_img img {
     margin-top: -30px; }
 
+.welcome_text {
+
+  
+}
 .welcome_text h4 {
   color: #222222;
   font-family: "Ubuntu", sans-serif;
@@ -2329,7 +2333,7 @@ h6 {
   margin-bottom: 18px;
   text-transform: uppercase; }
 .welcome_text p {
-  max-width: 495px;
+  max-width: 700px;
   font-family: "Ubuntu", sans-serif;
   margin-bottom: 40px; }
 
