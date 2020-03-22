@@ -139,6 +139,7 @@ button:focus {
 /*----------------------------------------------------*/
 /* Home Banner Area css
 ============================================================================================ */
+
 .home_banner_area {
   position: relative;
   z-index: 1;
@@ -2343,7 +2344,8 @@ h6 {
   border-radius: 5px; }
   .wel_item i {
     font-size: 24px;
-    background: linear-gradient(to right, #766dff 0%, #86e7ff 70%);
+    /* background: linear-gradient(to right, #766dff 0%, #86e7ff 70%); */
+    background-color: #298cdf;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent; }
   .wel_item h4 {
@@ -2761,7 +2763,8 @@ h6 {
 /* Footer Area css
 ============================================================================================ */
 .footer_area {
-  background: #000; }
+  /* background: #000;  */
+}
 
 .f_title {
   margin-bottom: 35px; }
